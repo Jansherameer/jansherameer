@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with **Advanced .NET & SQL projects and scaling full-stack applications**
 
-- 👨‍💻 All of my projects are available at [jansherameer.dev](jansherameer.dev)
+- 👨‍💻 All of my projects are available at [jansherameer.dev](https://jansherameer.dev)
 
-- 📝 I regularly write articles on [jansherameer.online](jansherameer.online)
+- 📝 I regularly write articles on [jansherameer.online](https://jansherameer.online)
 
 - 💬 Ask me about **JavaScript, Next.js, React, Node.js, Python, Full-Stack Development**
 
