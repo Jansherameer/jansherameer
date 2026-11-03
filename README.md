@@ -1,123 +1,147 @@
 <div align="center">
 
-# Jansher Ameer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=175&section=header&text=Jansher%20Ameer&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Language%20Technology&descSize=15&descAlignY=61" alt="Jansher Ameer — Full-Stack Developer" width="100%" />
 
-**Full-Stack Developer · AI & Language Technology · Open Source**
+### Building intelligent products and meaningful digital experiences
 
-Building useful web applications, intelligent products, and technology that makes a difference.
+Full-stack development · Applied AI · Open source · Balochi language technology
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jansherameer.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jansherameer)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jansherameer.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jansherameer.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jansherameer)
+[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jansherameer.dev)
 
-<sub>Based in Pakistan · Open to open-source collaboration and meaningful engineering opportunities</sub>
+</div>
+
+<br/>
+
+## About me
+
+I'm **Jansher Ameer**, a full-stack developer from Pakistan, focused on building web platforms and exploring practical AI applications. I enjoy working across frontend interfaces, backend systems, and tools that solve real problems.
+
+My current interests include **intelligent job matching**, **developer productivity**, and **Balochi language technology**.
+
+- **Building:** Balochi speech and text translation experiences and related language-processing ideas.
+- **Working with:** JavaScript, TypeScript, React, Next.js, Node.js, Python, and databases.
+- **Exploring:** NLP, AI integration, .NET, and SQL Server.
+- **Open to:** open-source contributions, technical collaborations, and developer opportunities.
+
+---
+
+## Featured project
+
+### Jobora · AI-Powered Job Recommendation Platform
+
+**From resume analysis to relevant opportunities.** Jobora explores semantic job matching, resume skill extraction, ATS feedback, and personalized recommendations in a full-stack application.
+
+<div align="center">
+
+<a href="https://github.com/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform">
+  <img src="https://raw.githubusercontent.com/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform/main/client/public/screenshots/homepage-hero.png" alt="Jobora application homepage" width="90%" />
+</a>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-20232a?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-20232a?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+[**View Jobora source code →**](https://github.com/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform)
 
 </div>
 
 ---
 
-### About
-
-I'm **Jansher Ameer**, a full-stack developer who enjoys turning ideas into reliable, approachable digital products. My interests span **modern web engineering, AI integration, automation, and natural language processing**.
-
-I'm particularly interested in using technology to support **Balochi**, including ongoing work exploring **speech translation, text translation, and language-processing tools**. These projects are in development.
-
-### Featured work
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-#### [Jobora — AI-Powered Job Recommendation Platform](https://github.com/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform)
-
-**AI-assisted career discovery, beyond keyword matching.**
-
-A full-stack platform exploring resume analysis, semantic job recommendations, ATS scoring, and skill-based matching.
-
-**Stack:** React · TypeScript/JavaScript · Express · Python/FastAPI · PostgreSQL
-
-[Explore Jobora →](https://github.com/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform)
-
-</td>
-</tr>
-</table>
+## More public projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [Automated Certificate Generator](https://github.com/Jansherameer/certificate-generator)
+### [Certificate Generator](https://github.com/Jansherameer/certificate-generator)
 
-Automates personalized certificate creation using spreadsheet data and document templates.
+Generate personalized certificates from spreadsheet data and document templates. Built around practical workflow automation.
 
-**Focus:** Python · Automation · Document workflows
+**Python · Document automation**
+
+[![Repository stars](https://img.shields.io/github/stars/Jansherameer/certificate-generator?style=flat-square&logo=github&label=Stars)](https://github.com/Jansherameer/certificate-generator/stargazers)
 
 </td>
 <td width="50%" valign="top">
 
-#### [Luma CSS](https://github.com/Jansherameer/luma-css)
+### [Luma CSS](https://github.com/Jansherameer/luma-css)
 
-A lightweight, utility-first CSS project for building consistent, responsive interfaces.
+A lightweight utility-first CSS project for consistent, reusable, responsive styling.
 
-**Focus:** CSS · Frontend tooling · UI systems
+**CSS · Frontend tooling**
+
+[![Repository stars](https://img.shields.io/github/stars/Jansherameer/luma-css?style=flat-square&logo=github&label=Stars)](https://github.com/Jansherameer/luma-css/stargazers)
 
 </td>
 </tr>
 </table>
 
-### What I'm building now
-
-**Balochi language technology** is one of my current areas of exploration.
-
-- **Speech translation:** exploring voice-based translation experiences for Balochi.
-- **Text translation:** working on practical text translation and language interfaces.
-- **NLP workflows:** investigating ways to process and work with Balochi text.
-
-<sub>These are ongoing initiatives; private development repositories are intentionally not linked.</sub>
-
-### Technical toolkit
-
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind&perline=7" alt="Frontend: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS" />
-
-**Backend & data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django,mysql,postgres,mongodb&perline=8" alt="Backend: Node.js, Express, Python, FastAPI, Django, MySQL, PostgreSQL, MongoDB" />
-
-**Tools & workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma&perline=6" alt="Tools: Git, GitHub, Linux, Docker, VS Code, Figma" />
+[Explore all public repositories →](https://github.com/Jansherameer?tab=repositories)
 
 </div>
 
-### Currently exploring
+---
 
-`Natural Language Processing` · `AI-assisted products` · `.NET & SQL Server` · `Scalable full-stack applications`
+## Current focus · Balochi language technology
 
-### GitHub overview
+> **Helping bring Balochi into more digital experiences.**
+
+I'm currently exploring tools for **Balochi speech translation, text translation, and natural language processing**. The aim is to make language technology more useful and accessible for Balochi speakers.
+
+These are **works in progress**. I share this direction without linking to private development repositories or claiming that unfinished features are complete.
+
+---
+
+## Technology stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jansherameer&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jansherameer&layout=compact&hide_border=true&theme=transparent" alt="Most used public repository languages" height="165" />
+**Frontend & interface development**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&perline=5" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+
+**Backend & databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres&perline=5" alt="Node.js, Express, Python, FastAPI, PostgreSQL" />
+
+**Development workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&perline=5" alt="Git, GitHub, Linux, Docker, VS Code" />
 
 </div>
 
-<sub>Statistics are generated by a third-party service and may occasionally be unavailable.</sub>
+---
+
+## Live GitHub signals
+
+<div align="center">
+
+[![Jobora stars](https://img.shields.io/github/stars/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform?style=for-the-badge&logo=github&label=Jobora%20stars)](https://github.com/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform/stargazers)
+[![Jobora last commit](https://img.shields.io/github/last-commit/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform?style=for-the-badge&logo=github&label=Jobora%20updated)](https://github.com/Jansherameer/JOBORA-AI-Powered-Job-Recommendation-Platform/commits)
+
+[**View my contribution activity on GitHub →**](https://github.com/Jansherameer)
+
+</div>
+
+<sub>Repository badges use GitHub data via Shields.io and update as the underlying repository changes. They may be cached or temporarily unavailable.</sub>
 
 ---
 
 <div align="center">
 
-### Let's build something useful
+### Let's create something useful
 
-Interested in collaborating on open source, AI, web platforms, or language technology?
+I'm interested in collaborating on open source, full-stack platforms, applied AI, and language technology.
 
-**[Portfolio](https://jansherameer.dev) · [LinkedIn](https://linkedin.com/in/jansherameer) · [Articles](https://jansherameer.online) · [Email](mailto:contact@jansherameer.dev)**
+[**Portfolio**](https://jansherameer.dev) · [**LinkedIn**](https://linkedin.com/in/jansherameer) · [**Articles**](https://jansherameer.online) · [**Email**](mailto:contact@jansherameer.dev)
 
-<sub>Thoughtful engineering. Practical impact. Continuous learning.</sub>
+<sub>Build thoughtfully · Keep learning · Share what matters</sub>
 
 </div>
