@@ -52,6 +52,38 @@ My current interests include **intelligent job matching**, **developer productiv
 
 ---
 
+## Organization work · BELI
+
+### [Balochistan Emerging Leaders Initiative (BELI)](https://www.beli.org.pk/)
+
+**Website development, maintenance, and digital operations.** I work on BELI's web presence, including ongoing interface improvements, backend maintenance, and support for its digital services.
+
+<div align="center">
+
+<a href="https://www.beli.org.pk/">
+  <img src="https://image.thum.io/get/width/1200/crop/750/noanimate/https://www.beli.org.pk/" alt="Live website preview of BELI — Balochistan Emerging Leaders Initiative" width="90%" />
+</a>
+
+[**Visit the BELI website →**](https://www.beli.org.pk/)
+
+</div>
+
+<sub>The website preview is requested from an external screenshot service and may refresh or occasionally fail to load. The BELI source repository is private and is not linked.</sub>
+
+---
+
+## Projects in progress
+
+| Project | Focus | Stage |
+| :--- | :--- | :--- |
+| **Balochi speech & text translator** | Exploring speech and text translation interfaces for Balochi | In development |
+| **Balochi plagiarism checker** | Text normalization, similarity detection, and source matching for Balochi documents | Research / development |
+| **BELI Helpdesk & HR Portal** | Internal service and human-resources workflows | In development |
+
+<sub>Work-in-progress descriptions reflect project direction, not a claim that all features have shipped.</sub>
+
+---
+
 ## More public projects
 
 <table>
@@ -86,16 +118,6 @@ A lightweight utility-first CSS project for consistent, reusable, responsive sty
 [Explore all public repositories →](https://github.com/Jansherameer?tab=repositories)
 
 </div>
-
----
-
-## Current focus · Balochi language technology
-
-> **Helping bring Balochi into more digital experiences.**
-
-I'm currently exploring tools for **Balochi speech translation, text translation, and natural language processing**. The aim is to make language technology more useful and accessible for Balochi speakers.
-
-These are **works in progress**. I share this direction without linking to private development repositories or claiming that unfinished features are complete.
 
 ---
 
