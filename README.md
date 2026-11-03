@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=175&section=header&text=Jansher%20Ameer&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Language%20Technology&descSize=15&descAlignY=61" alt="Jansher Ameer — Full-Stack Developer" width="100%" />
+<a href="https://jansherameer.dev">
+  <img src="https://avatars.githubusercontent.com/u/133028987?v=4" width="124" height="124" alt="Jansher Ameer profile photo" />
+</a>
 
-### Building intelligent products and meaningful digital experiences
+# Jansher Ameer
 
-Full-stack development · Applied AI · Open source · Balochi language technology
+### Full-Stack Developer & AI Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jansherameer.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jansherameer)
-[![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jansherameer.dev)
+**Building intelligent products, accessible web experiences, and technology for local languages.**
+
+Pakistan · Full-stack engineering · Applied AI · Balochi language technology
+
+<a href="https://jansherameer.dev"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+<a href="https://linkedin.com/in/jansherameer"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:contact@jansherameer.dev"><img src="https://img.shields.io/badge/GET_IN_TOUCH-155E75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Jansher" /></a>
 
 </div>
 
 <br/>
 
-## About me
+## Hello, I'm Jansher
 
 I'm **Jansher Ameer**, a full-stack developer from Pakistan, focused on building web platforms and exploring practical AI applications. I enjoy working across frontend interfaces, backend systems, and tools that solve real problems.
 
@@ -27,7 +33,7 @@ My current interests include **intelligent job matching**, **developer productiv
 
 ---
 
-## Featured project
+## Selected work · Featured project
 
 ### Jobora · AI-Powered Job Recommendation Platform
 
@@ -141,7 +147,7 @@ A lightweight utility-first CSS project for consistent, reusable, responsive sty
 
 ---
 
-## Live GitHub signals
+## GitHub · Live repository activity
 
 <div align="center">
 
